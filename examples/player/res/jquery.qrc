@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/browser">
+        <file>jquery.min.js</file>
+    </qresource>
+</RCC>
